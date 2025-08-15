@@ -1,0 +1,7 @@
+flower_type,required_temp_celsius,shelf_life_days
+Rose,4,7
+Tulip,4,5
+Lily,8,6
+Orchid,20,10
+Daisy,8,5
+Sunflower,8,6

@@ -1,0 +1,6 @@
+bin_id,zone,temperature_celsius,distance_m
+A01,COLD_A,4,10
+A02,COLD_A,4,12
+B01,COLD_B,8,20
+B02,COLD_B,8,22
+C01,AMBIENT_C,20,30
